@@ -1,7 +1,5 @@
 # Welcome to Sis Gama BR
 
-Sis Gama BR is an audacious project dedicated to the establishment of an innovative community of the most diverse and extremely decentralized.
-
 Sis Gama BR's goal is to provide a unique source of essential Ethereum information. We have tried to achieve this through two main areas:
 
 - Documents - open source, easy to understand documentation
