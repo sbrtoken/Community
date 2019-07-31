@@ -19,6 +19,6 @@ No inappropriate content
 - Join the discussion on our Discord server: https://discord.gg/gYzqvV
 - Join the discussion on our Slack server: https://sisgamabrasil.slack.com/
 
-Donations: 0xAafc9a66C2BD36ba73D78DC42C635EB104b945A4
+Donations Ethereum: 0xAafc9a66C2BD36ba73D78DC42C635EB104b945A4
 
 LIABILITY DISCLAIMER: Sis Gama BR is a fully independent and open source initiative founded by members of the Ethereum community. Nothing contained in this Github repository should be considered financial or investment advice - it is for informational purposes only.
