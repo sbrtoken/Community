@@ -15,8 +15,9 @@ There are also some basic guidelines that need to be followed when contributing 
 All pages should have links to support / documentation sources and additional resources.
 No marketing or sponsored posts
 No inappropriate content
-Join the discussion on our Discord server: https://discord.gg/gYzqvV
-Join the discussion on our Slack server: https://sisgamabrasil.slack.com/
+
+- Join the discussion on our Discord server: https://discord.gg/gYzqvV
+- Join the discussion on our Slack server: https://sisgamabrasil.slack.com/
 
 Donations: 0xAafc9a66C2BD36ba73D78DC42C635EB104b945A4
 
