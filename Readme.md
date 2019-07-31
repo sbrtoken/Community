@@ -3,7 +3,7 @@
 Sis Gama BR's goal is to provide a unique source of essential Ethereum information. We have tried to achieve this through two main areas:
 
 - Documents - open source, easy to understand documentation
-- Newsletter - Sis Gama BR at Medium
+- Newsletter at Medium - https://medium.com/@sisgamabr
 
 The Documents section, where you are now, is the core of Sis Gama BR. This documentation is open source and hosted on GitHub, meaning anyone can contribute. The goal is to ensure that information is available, clear, concise and up to date.
 
