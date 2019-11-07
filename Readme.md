@@ -5,7 +5,9 @@
 
 [Sisgama.com] (https://sisgama.com) is a primary online resource for the Sis Gama community. The purpose of the site is _ "To be the best Sis Gama portal for our growing global community."
 
-Sis Gama BR's goal is to provide a unique source of essential Ethereum information. We have tried to achieve this through two main areas:
+[Sisgama.com] (https://Sisgama.com) is enhanced and changed over time through contributions from community members who submit content, give feedback, or volunteer their time to manage their progress.
+
+Sis Gama BR's goal is to provide a unique source of essential community information. We try to achieve this through two main areas:
 
 - Documents - open source, easy to understand documentation
 - Newsletter at Medium - https://medium.com/@sisgamabr
